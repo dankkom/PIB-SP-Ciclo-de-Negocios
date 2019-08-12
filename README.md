@@ -1,8 +1,10 @@
 
 # Ciclo de Negócios - PIB SP
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dankkom/PIB-SP-Ciclo-de-Negocios/master)
+
 Para a execução do código são necessários os pacotes instalados com o seguinte comando:
-install.packages(c("mFilter", "BCDating", "tidyverse", "ggfortify", "gridExtra", "zoo"))
+install.packages(c("mFilter", "BCDating", "ggplot2", "ggfortify", "gridExtra", "zoo"))
 ## 1. Carregamento de pacotes necessários
 
 
