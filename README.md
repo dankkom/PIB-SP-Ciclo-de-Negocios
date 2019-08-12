@@ -1,14 +1,9 @@
 
 # Ciclo de Negócios - PIB SP
 
-## 1. Instalação de pacotes
-
-
-```R
+Para a execução do código são necessários os pacotes instalados com o seguinte comando:
 install.packages(c("mFilter", "BCDating", "tidyverse", "ggfortify", "gridExtra", "zoo"))
-```
-
-Importação dos pacotes
+## 1. Carregamento de pacotes necessários
 
 
 ```R
